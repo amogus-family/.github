@@ -1,5 +1,3 @@
-![Logo](https://images.wallpapersden.com/image/download/among-us-game-4k-art_bGpmbmiUmZqaraWkpJRnamtlrWZtZWU.jpg)
-
 # Amogus Family
 
 We are amogus family
@@ -54,8 +52,5 @@ ReactDOM.createRoot(
 ## 🛠 Skills
 PornHub, XVIDEOS, XHAMSTER
 
-
-## Demo of our work
-
-![Amogus](https://steamuserimages-a.akamaihd.net/ugc/1752455024931113769/515778D7F5847BF550FD044BD8D9FC5FD1D512AB/?imw=512&amp;imh=574&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true);
+![IMG](https://images.wallpapersden.com/image/download/among-us-game-4k-art_bGpmbmiUmZqaraWkpJRnamtlrWZtZWU.jpg)
 
