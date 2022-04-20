@@ -1,4 +1,4 @@
-![Logo](https://avatars.githubusercontent.com/u/104060292?s=200&v=4)
+![Logo](https://images.wallpapersden.com/image/download/among-us-game-4k-art_bGpmbmiUmZqaraWkpJRnamtlrWZtZWU.jpg)
 
 # Amogus Family
 
