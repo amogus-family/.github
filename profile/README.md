@@ -2,9 +2,6 @@
 
 We are amogus family
 
-
-
-
 ## 🚀 ABOUT sUS
 NO NO NO LISTEN LISTEN LISTEN
 
@@ -16,37 +13,6 @@ NO NO NO LISTEN LISTEN LISTEN
 - [@Evieer](https://www.github.com/Evieer)
 - [@Sick-Of-It-All](https://www.github.com/Sick-Of-It-All)
 - [@GiceyReal](https://github.com/GiceyReal)
-
-## Usage/Examples
-
-```javascript
-import { render } from '@testing-library/react';
-import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
-
-const Header = (props) => <h1 id="nill kiggers">{props.text}</h1>;
-
-const Element = <p>Параграф</p>;
-
-class Main extends Component {
-  render() {
-    return (
-      <div className='main'>
-        <Header text={'Text Property'}/>
-        <Element />
-      </div>
-    )
-  }
-}
-
-ReactDOM.createRoot(
-  <React.StrictMode>
-    <Main />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
-```
 
 
 ## 🛠 Skills
