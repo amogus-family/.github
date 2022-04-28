@@ -1,9 +1,8 @@
 # Amogus Family
+Really Good Company with some shit
 
-We are amogus family
-
-## 🚀 ABOUT sUS
-NO NO NO LISTEN LISTEN LISTEN
+## About sUS
+NO NO NO LISTEN LISTEN LISTEN, i said this higher
 
 
 ## Authors
@@ -17,6 +16,3 @@ NO NO NO LISTEN LISTEN LISTEN
 
 ## 🛠 Skills
 PornHub, XVIDEOS, XHAMSTER
-
-![IMG](https://images.wallpapersden.com/image/download/among-us-game-4k-art_bGpmbmiUmZqaraWkpJRnamtlrWZtZWU.jpg)
-
